@@ -1,0 +1,1 @@
+savedcmd_Module.symvers :=  /usr/src/linux-headers-6.17.0-rc6-lkiuyu-compile+/scripts/mod/modpost -M    -a      -o Module.symvers -n -T modules.order -i /usr/src/linux-headers-6.17.0-rc6-lkiuyu-compile+/Module.symvers -e 
